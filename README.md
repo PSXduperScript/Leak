@@ -1,4 +1,4 @@
-Instructions:
+# Instructions:
 
 To perform this, make sure to put everything you want to duplicate in your bank before executing
 
