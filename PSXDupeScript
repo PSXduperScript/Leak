@@ -1,4 +1,2 @@
 _G.License = "b6d15d21dfe54635ba7c"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
-
-Make sure to put everything you want to duplicate in your bank before executing!
